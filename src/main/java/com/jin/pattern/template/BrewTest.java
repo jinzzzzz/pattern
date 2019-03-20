@@ -1,8 +1,6 @@
 package com.jin.pattern.template;
 
 
-import java.util.Arrays;
-
 /**
  * 模板方法测试
  * @author jinjin
